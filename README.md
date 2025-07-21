@@ -19,7 +19,7 @@
 
 Here’s a preview of the extension in action:
 
-![TodoList Extension Screenshot](./snapshot.png)
+![TodoList Extension Screenshot](snapshot.png)
 
 ---
 
