@@ -19,7 +19,7 @@
 
 Here’s a preview of the extension in action:
 
-![TodoList Extension Screenshot](snapshot.png)
+![TodoList Extension Screenshot](https://github.com/hellman53/Todo-extension/blob/e9f3bfa44826f56fe1708b332cfa3fae8867bbf8/public/snapshot.png)
 
 ---
 
