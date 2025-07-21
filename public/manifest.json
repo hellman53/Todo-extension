@@ -1,0 +1,13 @@
+{
+   "name": "My To-Do List",
+   "description:": "Maintain your own To-Do list",
+   "version":"1.0",
+   "manifest_version": 3,
+   "action": {
+        "default_title":"My To-Do List",
+        "default_popup":"index.html",
+        "default_icon":{
+            "16": "todoList.png"
+        }
+   }
+}
