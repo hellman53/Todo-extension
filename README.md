@@ -77,7 +77,7 @@ To load the extension in Chrome or Brave, follow these steps:
 8. To remove the extension, click the "Remove" button in the extensions page.
 9. To load the extension in a different browser, follow the same steps as above.
 
-### 📁 Folder Structure
+## 📁 Folder Structure
 The project follows a standard structure:
 
 ``` bash
@@ -90,7 +90,7 @@ src/
   └── index.css
 ```
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 1. React
 2. Tailwind CSS
 3. Vite
