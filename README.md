@@ -31,7 +31,7 @@ git clone https://github.com/your-username/todolist-extension.git
 cd todolist-extension
 
 ```
-2. Install Node Modules
+### 2. Install Node Modules
 Make sure you have Node.js installed.
 
 Then install dependencies:
@@ -43,7 +43,7 @@ yarn install
 pnpm install
 ```
 
-💻 Run the Project in Development
+### 3. 💻 Run the Project in Development
 To run the React app locally:
 ```bash
 npm run dev
@@ -54,7 +54,7 @@ pnpm dev
 ```
 This will start the app on http://localhost:5173 by default (if you're using Vite).
 
-📦 Build for Production
+### 4. 📦 Build for Production
 To generate a production build (for deployment or Chrome extension packaging):
 ```bash
 npm run build
@@ -65,7 +65,7 @@ pnpm build
 ```
 This will generate a dist/ folder containing the build output.
 
-🧩 Load as Chrome/Brave Extension
+### 5. 🧩 Load as Chrome/Brave Extension
 To load the extension in Chrome or Brave, follow these steps:
 1. Go to chrome://extensions/ (or brave://extensions/ for Brave).
 2. Enable Developer Mode.
@@ -77,7 +77,7 @@ To load the extension in Chrome or Brave, follow these steps:
 8. To remove the extension, click the "Remove" button in the extensions page.
 9. To load the extension in a different browser, follow the same steps as above.
 
-📁 Folder Structure
+### 📁 Folder Structure
 The project follows a standard structure:
 
 ``` bash
@@ -90,7 +90,7 @@ src/
   └── index.css
 ```
 
-🧠 Tech Stack
+### 🧠 Tech Stack
 1. React
 2. Tailwind CSS
 3. Vite
